@@ -19,13 +19,13 @@
 ```javascript
 const yusuf = {
   pronouns: "He" | "Him",
-  code: ["Python", "HTML5", "CSS", "JavaScript"],
+  code: ["Python", "HTML5", "CSS", "JavaScript", "Node.JS"],
   askMeAbout: ["Ethical Hacking", "Pentesting", "Web Development"],
   technologies: {
     Hosting Panels: {
       js: ["cPanel", "Plesk", "Direct Admin"],
     },
-    security: ["Burp Suite", "Wireshark", "Kali Linux"],
+    security: ["Burp Suite", "Wireshark", "Kali Linux", "Cryptography"],
   },
   currentFocus: "Learning more about Cybersecurity and Web Development",
 };
@@ -41,10 +41,8 @@ const yusuf = {
 ---
 
 
-## Let's Connect 🤝
-
-- Find me on [LinkedIn](https://www.linkedin.com/in/yusufgokmen/)
-- Visit my [personal blog](https://yusufgokmen.com) for more insights on Ethical Hacking and Web Development.
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/witchless) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/Witchlesss) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yusuf-gokmen/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gokmeny321@gmail.com) 
 
 ---
 
